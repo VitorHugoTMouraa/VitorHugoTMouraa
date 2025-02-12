@@ -57,4 +57,4 @@
   />
 <br/>
 
-Apaixonado por tecnologias e suas linguagens de Programação.
+Facinado por tecnologias e suas linguagens de Programação.
